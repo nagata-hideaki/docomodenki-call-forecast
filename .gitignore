@@ -1,0 +1,7 @@
+docomo_call_forecast/
+*.tsv
+*.csv
+__pycache__/
+*.pyc
+.vscode/
+.idea/
